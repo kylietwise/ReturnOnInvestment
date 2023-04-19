@@ -2,11 +2,11 @@
 
 Quick return on investment exploration for PE friend.
 
-Finds:
+**Finds:**
 1) Finds MoM - multiple of money invested
 2) Returns 
 
-Given:
+**Given:**
 1) Amount Invested 
 2) Exit Equity - sale price
 3) Market Share
